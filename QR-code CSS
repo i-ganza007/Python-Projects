@@ -21,9 +21,9 @@ h2{
     width: 10rem;
     margin-left: 2rem;
     position: relative;
-    top: 1.7rem;
-    font-size: 14px;
-    right: 2rem;
+    top: 1.2rem;
+    font-size: 11px;
+    right: 1rem;
     
 }
 p{
@@ -36,8 +36,9 @@ p{
     text-wrap: wrap;
     margin-left: 2.5rem;
     position: relative; 
-    top: 3rem;
-    right: 2rem;
+    top: 1.2rem;
+    right: 1rem;
+    font-size:11px;
 }
 
 

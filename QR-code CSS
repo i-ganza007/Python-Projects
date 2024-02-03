@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(186, 221, 232);
+}
+div{
+    background-color: whitesmoke;
+    width: 10rem;
+    height: 17rem;
+    margin: auto;
+    margin-top: 20%;
+    border-radius:20px;
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    width: 10rem;
+    margin-left: 2rem;
+    position: relative;
+    top: 1.7rem;
+    font-size: 14px;
+    right: 2rem;
+    
+}
+p{
+    font-size: 8px;
+    font-family:'Josefin Sans', sans-serif;
+    color: grey;
+    font-weight: 400;
+    text-align: center;
+    width:9rem;
+    text-wrap: wrap;
+    margin-left: 2.5rem;
+    position: relative; 
+    top: 3rem;
+    right: 2rem;
+}
+
+
+img{
+    width: 149px;
+    margin-left: 48px;
+    margin-right: 18px;
+    border-radius: 10px;
+    position: relative;
+    top: 0.6rem;
+    right: 2.6rem;
+
+}
